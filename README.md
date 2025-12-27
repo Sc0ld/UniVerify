@@ -13,7 +13,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/UniVerify.git
+    git clone https://github.com/sc0ld/UniVerify.git
     cd UniVerify
     ```
 
